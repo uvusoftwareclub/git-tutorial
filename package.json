@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/uvusoftwareclub/git-tutorial/issues"
   },
-  "homepage": "https://github.com/uvusoftwareclub/git-tutorial#readme"
+  "homepage": "https://github.com/uvusoftwareclub/git-tutorial#readme",
+  "dependencies": {
+    "lodash": "^4.11.0"
+  }
 }
