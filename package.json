@@ -1,0 +1,23 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "simple project for a git-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvusoftwareclub/git-tutorial.git"
+  },
+  "keywords": [
+    "git",
+    "demo"
+  ],
+  "author": "Michael Robison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uvusoftwareclub/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/uvusoftwareclub/git-tutorial#readme"
+}
