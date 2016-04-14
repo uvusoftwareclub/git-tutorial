@@ -1,0 +1,33 @@
+
+FIRST - have everyone install git, let it run while we are doing introduction stuff
+	git-scm.com/downloads
+
+INTRO - what is git, why is it important?
+
+	-THE versioning and colaboration tool
+	-what is a repository?
+	-basic structure of commits and branches
+	
+
+BASICS - single user git use (single branch)
+	
+	-initialization
+	-making commits
+	-reverting to old commits
+
+TEAM USE - multiple users on a single branch
+
+	-setting up a hosted repo
+	-concepts of push and pull
+	-standard use pattern
+		-pull
+		-do work
+		-pull -rebase
+		-fix merge conflicts
+		-push
+
+ADVANCED USE - multiple branches
+
+	-creating branches
+	-working on a branch
+	-merging branches
