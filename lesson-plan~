@@ -11,8 +11,8 @@ INTRO - what is git, why is it important?
 BASICS - single user git use (single branch)
 
 	-first time setup - username and email
-		-git config --global user.name "John Doe"
-		-git config --global user.email johndoe@example.com	
+		$ git config --global user.name "John Doe"
+		$ git config --global user.email johndoe@example.com	
 	-initialization
 	-making commits
 	-reverting to old commits
